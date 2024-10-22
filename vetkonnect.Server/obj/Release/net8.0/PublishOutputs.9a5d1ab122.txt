@@ -1,0 +1,12 @@
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\vetkonnect.Server.exe
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\vetkonnect.Server.dll
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\vetkonnect.Server.deps.json
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\vetkonnect.Server.runtimeconfig.json
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\vetkonnect.Server.pdb
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\4th Year\vetkonnect\vetkonnect.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
